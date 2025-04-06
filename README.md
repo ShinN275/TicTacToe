@@ -13,3 +13,4 @@ Tic-Tac-Toe to konsolowa gra w języku Java dla dwóch graczy, rozgrywana na pla
   - Aktualnym stanie planszy po każdej turze.
   - Zwycięzcy – gdy któryś z graczy ułoży 3 symbole w jednej linii.
   - Remisie – gdy plansza zostanie zapełniona bez zwycięzcy.
+- Możliwość rozgrywania gry do skutku – aż do zwycięstwa lub remisu.
